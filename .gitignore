@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+venv/
+ride_in_kick_env/
+
+# Ignorar archivos temporales de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos del sistema operativo
+.DS_Store
